@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#colore {
+  height: 100px;
+}
+.rosso {
+  background-color: red;
+}
+.verde {
+  background-color: green;
+}
+.blu {
+  background-color: blue;
+}
